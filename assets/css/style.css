@@ -1,0 +1,188 @@
+* {
+	box-sizing: border-box;
+}
+
+.display-3 {
+	text-align:center;
+}
+
+.lead {
+	text-align:center;
+}
+
+#logoClick {
+	float:left;
+	margin-left: 200px;
+	border:solid 1px black;
+	height:150px;
+	width:400px;
+	padding:20px;
+}
+
+#stationGuardClick {
+	float:right;
+	margin-right: 200px;
+	border:solid 1px black;
+	height:150px;
+	width:400px;
+	padding:20px;
+}
+
+#logoClick p {
+	text-align: center;
+}
+
+#stationGuardClick p {
+	text-align:center;
+}
+
+.footer {
+	height:50px;
+	background-color:#71B271;
+	color:lightgray;
+	position:fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width:100%;
+	font-size:20px;
+	padding:10px;
+	border-top: solid 1px black;
+}
+
+#consultingContent {
+	margin-left:25%;
+}
+
+#consultingContent h2 {
+	font-size:40px;
+	text-align:center;
+}
+
+#consultingContent h3 {
+	font-size:30px;
+}
+
+#consultingContent li {
+	font-size:20px;
+}
+
+#aboutContent {
+	margin-left:25%;
+}
+
+#aboutContent h2 {
+	font-size:40px;
+	text-align:center;
+}
+
+#aboutContent h3 {
+	font-size:30px;
+}
+
+#aboutContent li {
+	font-size:18px;
+}
+
+#aboutContent ul {
+	border:1px transparent;
+	padding: 10px 10px 10px 40px;
+}
+
+#aboutContent h4 {
+	font-size:20px;
+	line-height:1.5;
+}
+
+#copyright {
+	float:left;
+	padding-bottom:10px;
+}
+
+#footerContact {
+	float:right;
+	padding-bottom:10px;
+}
+
+#navbar {
+	width:20%;
+	float:left;
+	margin-bottom:100%;
+}
+
+.masthead {
+	text-align:center;
+}
+
+#contactForm {
+	margin-left:25%;
+	width:60%;
+}
+
+#contact-form ul {
+	margin-bottom:20px;
+	list-style-type:none;
+}
+
+#contain-form li {
+	margin-bottom:10px;
+}
+
+label,
+input[type=text],
+input[type=email],
+textarea {
+	display:block;
+	width:100%;
+}
+
+input[type=text],
+input[type=email],
+textarea {
+	height:35px;
+	border:1px solid #ddd;
+	padding:0 10px;
+	font-size:14px;
+}
+
+textarea {
+	height:200px;
+}
+
+button {
+	background:#71B271;
+	border:0 none;
+	color:#fff;
+	font-size:18px;
+	padding:10px 30px;
+	cursor:pointer;
+	margin-left:40px;
+}
+
+#contactForm h2 {
+	font-size:40px;
+	text-align:center;
+}
+
+#contactForm h3 {
+	margin-left:40px;
+}
+
+#stationGuardInfo {
+	margin-left:25%;
+}
+
+#stationGuardInfo h2 {
+	font-size:40px;
+	text-align:center;
+}
+
+#stationGuardInfo h3 {
+	font-size:30px;
+}
+
+#stationGuardInfo h4 {
+	font-size:20px;
+	line-height:1.5;
+	padding-right:30px;
+}
